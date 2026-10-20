@@ -1,0 +1,13 @@
+{
+  "name": "claudestrophobic-marketplace",
+  "owner": {
+    "name": "urav"
+  },
+  "plugins": [
+    {
+      "name": "claudestrophobic",
+      "source": "./",
+      "description": "Session and project management for Claude Code: delete sessions, find and delete orphaned projects"
+    }
+  ]
+}
